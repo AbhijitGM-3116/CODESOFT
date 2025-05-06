@@ -1,0 +1,28 @@
+.bg-red{
+    background: red;
+}
+
+.max-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-align{
+    align-items: center;
+}
+
+.orange{
+    background: orange;
+}
+
+.tansperent{
+    background-color: rgb(23, 22, 22);
+}
